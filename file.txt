@@ -1,2 +1,3 @@
 Ini file dengan format txt
 
+Ini paragraph untuk commit ketiga file.txt
