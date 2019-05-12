@@ -1,2 +1,11 @@
 Ini file dengan format txt
 
+<<<<<<< HEAD
+
+ada perubahan
+
+=======
+Ini paragraph untuk commit ketiga file.txt
+
+Ini paragraph untuk commit keempat file.txt
+>>>>>>> parent of d615d41... commit kelima file.txt
